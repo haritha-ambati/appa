@@ -23,7 +23,7 @@
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_acer_defect_te_1</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description/>
+        <short_description>test</short_description>
         <source>x_acer_defect_te_1</source>
         <store_correlation_id/>
         <store_url/>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>rfL1xKVtoWpie6q6QukVfSEQOiDEwWaTeUOvTWdrfj4=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_acer_defect_te_1.gvhbjkn_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>gvhbjkn_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 11:21:32</sys_created_on>
+        <sys_id>108266799c3d8f10f8778c0d12f99623</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_acer_defect_te_1.gvhbjkn_user</sys_name>
+        <sys_package display_value="defect test mainapp a" source="x_acer_defect_te_1">b15b52f99cf98f10f8778c0d12f99637</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="defect test mainapp a">b15b52f99cf98f10f8778c0d12f99637</sys_scope>
+        <sys_update_name>sys_user_role_108266799c3d8f10f8778c0d12f99623</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 11:21:32</sys_updated_on>
+    </sys_user_role>
+</record_update>

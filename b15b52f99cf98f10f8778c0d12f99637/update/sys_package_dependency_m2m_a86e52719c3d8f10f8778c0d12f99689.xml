@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="defect_test_depapp_b" source="x_acer_defect_te_0">74591eb59cf98f10f8778c0d12f996a7</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-07-01 11:04:26</sys_created_on>
+        <sys_id>a86e52719c3d8f10f8778c0d12f99689</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="defect test mainapp a" source="x_acer_defect_te_1">b15b52f99cf98f10f8778c0d12f99637</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-07-01 11:04:26</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>Default user role</description>
+        <description>Default usfsfser role</description>
         <elevated_privilege>false</elevated_privilege>
         <federated_id>Gds/ne23ypMWEcMua2wmjQFLW4X5m1MhPcKqn5NBVoQ=</federated_id>
         <grantable>true</grantable>

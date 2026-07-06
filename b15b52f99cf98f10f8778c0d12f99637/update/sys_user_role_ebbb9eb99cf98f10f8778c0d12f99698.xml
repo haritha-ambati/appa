@@ -2,7 +2,7 @@
     <sys_user_role action="INSERT_OR_UPDATE">
         <assignable_by/>
         <can_delegate>true</can_delegate>
-        <description>yddddjdddjjdddddddddo</description>
+        <description>yddddjdddjjddddddddddddo</description>
         <elevated_privilege>false</elevated_privilege>
         <federated_id>++1haHTRmvlnEMhf3B8YrvUKdv+SQhsepy1SojTcLn0=</federated_id>
         <grantable>true</grantable>
